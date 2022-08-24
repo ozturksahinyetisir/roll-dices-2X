@@ -12,12 +12,13 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="100dp"
         android:layout_marginEnd="100dp"
-        android:layout_marginBottom="100dp"
+        android:layout_marginBottom="168dp"
         android:backgroundTint="#F58168"
         android:text="ZAR AT"
         app:iconTint="#E91E63"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
