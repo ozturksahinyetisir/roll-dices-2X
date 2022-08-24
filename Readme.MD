@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img width="30%" src="https://github.com/ozturksahinyetisir/roll-dices-2x/blob/master/rolldicegif.gif" alt="gif image"/>
+  <img width="30%" src="https://github.com/ozturksahinyetisir/roll-dices-2x/blob/master/rolldicev2.gif" alt="gif image"/>
 </p>
 
 ---
